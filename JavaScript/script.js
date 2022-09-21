@@ -1,0 +1,1 @@
+alert("Estou em um arquivo .js")
